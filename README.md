@@ -1,3 +1,7 @@
+## Parcours francais
+
+Guide SDK Hyperliquid dans docs/fr/README.md.
+
 # hyperliquid-rust-sdk
 
 SDK for Hyperliquid API trading with Rust.
